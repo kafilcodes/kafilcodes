@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVxdHVoYmtkOGwyN3ZhdW16dXBpYzg4ZG91cmRpamR0aTU4czRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXwVujlZogDMT4V3Lc/giphy.gif" alt="Get Done App Preview" width="600"/>
+</p>
+
+
 # 💫 About Me:
 👨‍🎓 I'm currently Pursuing B.Tech CS AI ML ,<br>🚀 Mostly Working on the Start-up/Production Level Projects ,<br>🤖 Currently Learning AI/ML Techs  ,<br>⚡ Tech Enthusiast ,<br> 🎞️ cinephile | 🧠 psychophile | 🧑‍💻 techie. | 💪gym rat | 🤝Socializer | 💸Founder
 
@@ -26,6 +32,14 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kafilcodes) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kafilkhan27) 
+
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kafilcodes/kafilcodes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kafilcodes/kafilcodes/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kafilcodes/kafilcodes/output/github-snake.svg" />
+</picture>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
