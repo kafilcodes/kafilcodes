@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVxdHVoYmtkOGwyN3ZhdW16dXBpYzg4ZG91cmRpamR0aTU4czRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXwVujlZogDMT4V3Lc/giphy.gif" alt="Get Done App Preview" width="600"/>
-</p>
+
 
 
 # 💫 About Me:
@@ -40,6 +38,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/kafilcodes/kafilcodes/output/github-snake.svg" />
 </picture>
 
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVxdHVoYmtkOGwyN3ZhdW16dXBpYzg4ZG91cmRpamR0aTU4czRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXwVujlZogDMT4V3Lc/giphy.gif" alt="Get Done App Preview" width="600"/>
+</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
