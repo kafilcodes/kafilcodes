@@ -2,8 +2,14 @@
 
 
 
-# 💫 About Me:
-👨‍🎓 I'm currently Pursuing B.Tech CS AI ML ,<br>🚀 Mostly Working on the Start-up/Production Level Projects ,<br>🤖 Currently Learning AI/ML Techs  ,<br>⚡ Tech Enthusiast ,<br> 🎞️ cinephile | 🧠 psychophile | 🧑‍💻 techie. | 💪gym rat | 🤝Socializer | 💸Founder
+# 💫 About Me
+
+> *"I don't just write code; I architect digital experiences."*
+
+- 👨‍💻 **Identity:** Full Stack Developer | Applied AI Engineer | Founder
+- 🚀 **Current Focus:** Building Autonomous AI Agents & Scalable SaaS Platforms
+- 💼 **Experience:** Shipping end-to-end production systems for GovTech & Startups
+- ⚡ **The Human Side:** 🎞️ Cinephile | 🧠 Psychophile | 💪 Gym Rat | 💸 Visionary
 
 
 ## 🌐 Socials:
