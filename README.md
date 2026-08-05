@@ -95,7 +95,7 @@
     <td width="20%" align="center" valign="center" style="border: none;">
       <picture>
         <source srcset="neural_network_animation.gif">
-        <img src="neural_network_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Neural Network Animation" />
+        <img src="neural_network_animation.gif" width="120" style="border-radius: 8px;" alt="Neural Network Animation" />
       </picture>
     </td>
   </tr>
@@ -107,7 +107,7 @@
     <td width="20%" align="center" valign="center" style="border: none;">
       <picture>
         <source srcset="data_flow_animation.gif">
-        <img src="data_flow_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Data Flow Animation" />
+        <img src="data_flow_animation.gif" width="120" style="border-radius: 8px;" alt="Data Flow Animation" />
       </picture>
     </td>
     <td width="80%" valign="center" style="border: none;">
@@ -116,7 +116,6 @@
     </td>
   </tr>
 </table>
-
 <br>
 
 <div align="center">
