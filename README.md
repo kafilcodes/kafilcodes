@@ -93,7 +93,10 @@
       <p align="left">We operate an elite technical agency focused strictly on <b>consulting, automation, and engineering</b>. By bypassing standard wrapper limitations, we engineer multi-agent logic via Model Context Protocol (MCP) and LangGraph. The result? Rigid, hallucination-free automated workflows built for enterprise liability and scale.</p>
     </td>
     <td width="20%" align="center" valign="center" style="border: none;">
-      <img src="neural_network_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Neural Network Animation" />
+      <picture>
+        <source srcset="neural_network_animation.gif">
+        <img src="neural_network_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Neural Network Animation" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -102,7 +105,10 @@
 <table width="100%" style="border: none; background-color: transparent;">
   <tr>
     <td width="20%" align="center" valign="center" style="border: none;">
-      <img src="data_flow_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Data Flow Animation" />
+      <picture>
+        <source srcset="data_flow_animation.gif">
+        <img src="data_flow_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Data Flow Animation" />
+      </picture>
     </td>
     <td width="80%" valign="center" style="border: none;">
       <h3 align="left"><img src="https://cdn.simpleicons.org/qdrant/94A398" width="18" align="top"/> The Psychological Edge</h3>
