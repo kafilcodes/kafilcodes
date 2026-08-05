@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A2B&height=180&section=header&text=Mohd.%20Kafil%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111513,100:243B33&height=220&section=header&text=Mohd.%20Kafil%20Khan&fontSize=52&fontColor=94A398&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Wave"/>
 </div>
 
 <div align="center">
@@ -81,28 +81,32 @@
 <br>
 
 <div align="center">
-  <h2><img src="https://cdn.simpleicons.org/databricks/94A398" width="24" align="center"/> Architectural Philosophy & Execution</h2>
+  <h2><img src="https://cdn.simpleicons.org/databricks/94A398" width="24" align="center"/> Systems, Automation & Psychology</h2>
+  <p><i>Connecting complex AI models with tangible human outcomes.</i></p>
 </div>
 
-<table width="100%" style="border: none;">
+<!-- Row 1: Text Left (80%), GIF Right (20%) -->
+<table width="100%" style="border: none; background-color: transparent;">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left"><img src="https://cdn.simpleicons.org/anthropic/94A398" width="18" align="top"/> Deterministic Orchestration</h3>
-      <p align="left">Bypassing standard wrapper limitations by engineering multi-agent logic via <b>Model Context Protocol (MCP)</b> and <b>LangGraph</b>, ensuring rigid, hallucination-free outputs for enterprise liability.</p>
+    <td width="80%" valign="center" style="border: none;">
+      <h3 align="left"><img src="https://cdn.simpleicons.org/anthropic/94A398" width="18" align="top"/> Deterministic Automation</h3>
+      <p align="left">We operate an elite technical agency focused strictly on <b>consulting, automation, and engineering</b>. By bypassing standard wrapper limitations, we engineer multi-agent logic via Model Context Protocol (MCP) and LangGraph. The result? Rigid, hallucination-free automated workflows built for enterprise liability and scale.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left"><img src="https://cdn.simpleicons.org/qdrant/94A398" width="18" align="top"/> Compound AI Pipelines</h3>
-      <p align="left">Designing heavily optimized <b>RAG architectures</b> mapping custom Vector Databases with local and cloud-based LLM routing mechanisms (Ollama, Claude, Hermes).</p>
+    <td width="20%" align="center" valign="center" style="border: none;">
+      <img src="neural_network_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Neural Network Animation" />
     </td>
   </tr>
+</table>
+
+<!-- Row 2: GIF Left (20%), Text Right (80%) -->
+<table width="100%" style="border: none; background-color: transparent;">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left"><img src="https://cdn.simpleicons.org/serverless/94A398" width="18" align="top"/> High-Concurrency Scale</h3>
-      <p align="left">Building the backbone for AI scale. Proven execution in standalone public sector deployments and real-time mobility routing, handling complex, deterministic state management.</p>
+    <td width="20%" align="center" valign="center" style="border: none;">
+      <img src="data_flow_animation.gif" width="120" height="120" style="border-radius: 8px;" alt="Data Flow Animation" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left"><img src="https://cdn.simpleicons.org/githubactions/94A398" width="18" align="top"/> Strict Loop Engineering</h3>
-      <p align="left">Pioneering asynchronous, spec-driven development using <b>AI-assisted CLI tooling</b> (Claude Code, Antigravity) to multiply output velocity while maintaining flawless architecture.</p>
+    <td width="80%" valign="center" style="border: none;">
+      <h3 align="left"><img src="https://cdn.simpleicons.org/qdrant/94A398" width="18" align="top"/> The Psychological Edge</h3>
+      <p align="left">Code is syntactic; user experience is semantic. We approach system architecture through the lens of applied human psychology. By designing frictionless data pipelines and intuitive digital ecosystems, we ensure that the underlying neural networks align perfectly with human intent and cognitive behavior.</p>
     </td>
   </tr>
 </table>
