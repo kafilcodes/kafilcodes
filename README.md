@@ -32,7 +32,8 @@
 </div>
 
 <p align="center">
-  <b>Agentic AI & Orchestration</b><br>
+  <b>Agentic AI & Orchestration</b><br>   <br>
+  
   <img src="https://img.shields.io/badge/LangChain-243B33?style=for-the-badge&logo=langchain&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/LangGraph-243B33?style=for-the-badge&logo=graphql&logoColor=FFFFFF"/> 
   <img src="https://img.shields.io/badge/MCP-243B33?style=for-the-badge"/>
@@ -45,7 +46,7 @@
 </p>
 
 <p align="center">
-  <b>Data Pipelines & Vector Databases</b><br>
+  <b>Data Pipelines & Vector Databases</b><br>   <br>
   <img src="https://img.shields.io/badge/Pinecone-1A2A25?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Qdrant-1A2A25?style=for-the-badge&logo=qdrant&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ChromaDB-1A2A25?style=for-the-badge"/>
@@ -53,7 +54,7 @@
 </p>
 
 <p align="center">
-  <b>Core Languages & Runtimes</b><br>
+  <b>Core Languages & Runtimes</b><<br>   <br>
   <img src="https://img.shields.io/badge/TypeScript-111513?style=for-the-badge&logo=typescript&logoColor=94A398"/>
   <img src="https://img.shields.io/badge/Python-111513?style=for-the-badge&logo=python&logoColor=94A398"/>
   <img src="https://img.shields.io/badge/Go-111513?style=for-the-badge&logo=go&logoColor=94A398"/>
@@ -66,7 +67,7 @@
 </p>
 
 <p align="center">
-  <b>Cloud, Frameworks & Infrastructure</b><br>
+  <b>Cloud, Frameworks & Infrastructure</b><br>   <br>
   <img src="https://img.shields.io/badge/Next.js-243B33?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/React_Native-243B33?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Flutter-243B33?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/>
